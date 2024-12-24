@@ -1,2 +1,2 @@
 # smaRsi_strat
-Trading strategy that combines the relative strength index and two moving averages.
+This code implements a trading strategy that combines the Relative Strength Index (RSI) and two Moving Averages (MA) to identify buy and sell signals for a given stock. It then optimizes the parameters of this strategy to maximize profit. However, it has major theoretical problems such as overfitting and doesn't take a lot of things into consideration, such as transaction costs and slippage. This was just a fun project for me to get myself into algorithmic trading and backtesting. 
